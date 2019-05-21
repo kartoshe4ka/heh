@@ -1,0 +1,6 @@
+C:\Users\stud\Desktop\heh\heh\bin\Release\heh.exe.config
+C:\Users\stud\Desktop\heh\heh\bin\Release\heh.exe
+C:\Users\stud\Desktop\heh\heh\bin\Release\heh.pdb
+C:\Users\stud\Desktop\heh\heh\obj\Release\heh.csprojResolveAssemblyReference.cache
+C:\Users\stud\Desktop\heh\heh\obj\Release\heh.exe
+C:\Users\stud\Desktop\heh\heh\obj\Release\heh.pdb
